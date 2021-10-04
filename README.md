@@ -4,7 +4,7 @@ __Link of the API:__ https://project2-4dpwuprv7a-ew.a.run.app/
 
 __Link of the Model:__ https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english
 
-__Computation of the cost of the API for 10,000 instances (except free tier):__ 12€ per month
+__Computation of the cost of the API for 10,000 instances with Docker Storage (except free tier):__ 12€ per month
 
 __Use of the API:__
 
