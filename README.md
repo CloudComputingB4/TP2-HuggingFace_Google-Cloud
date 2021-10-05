@@ -1,4 +1,4 @@
-# TP Cloud Computing #2
+# TP Cloud Computing #2 ROULET Maria Paula and ROUX Dorian 
 
 __Link of the API:__ https://project2-4dpwuprv7a-ew.a.run.app/
 
