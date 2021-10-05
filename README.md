@@ -6,12 +6,12 @@ __Link of the Model:__ https://huggingface.co/distilbert-base-uncased-finetuned-
 
 __Computation of the cost of the API for 10,000 instances with Docker Storage (except free tier):__ 12€ per month
 
-__Use of the API:__
+## __Use of the API:__
 
 
 
 
-1.  Files Cloning (2 Methods)
+### 1.  Files Cloning (2 Methods)
     
     Method 1: Clone the following link (Using GIT): https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english.
 
@@ -22,7 +22,7 @@ __Use of the API:__
         *    "pytorch_model.bin".
 
 
-2.  Requirement and Execution
+### 2.  Requirement and Execution
 
 * Make sure you have the model (name the folder "Distilbert" or you will have to modify the "model_path" in the python file) in the same folder as the python file.
 * Ensure to have the "requirements.txt", "Dockerfile" and the folder "templates" with the file "index.html" (the CSS is not useful).
@@ -31,13 +31,13 @@ Once you have all the previous steps done, you can execute the python file "main
 
 
 
-3.  Localhost
+### 3.  Localhost
 
 If the execution of the python file is successful, a link toward the localhost will be displayed (should be like this :http://localhost:8080/).
 
 
 
-4.  Sentiment Analysis
+### 4.  Sentiment Analysis
 
 In the localhost, you can see a "text area" to be filled with the desire sentence and a "submit button" to send the text to be analysed.
 After pressing the submit button, the sentiment analysis results will be displayed and you should see:
@@ -48,7 +48,7 @@ After pressing the submit button, the sentiment analysis results will be display
 
 
 
-5.  Graphical Interface
+### 5.  Graphical Interface
 
 Finally, this method use the graphical interface, that allows you to interact continously. The API execute each time you press the submit button. 
 
@@ -57,7 +57,7 @@ The graphical interface allows to rewrite and reanalyse any text with a more use
 
 
 
-__Serverless (Function-as-a-Service, FaaS) VS Infrastructure-as-a-Service (IaaS) :__
+## __Serverless (Function-as-a-Service, FaaS) VS Infrastructure-as-a-Service (IaaS) :__
 
 IaaS is the closest service to on-premises. In IaaS, a cloud provider rents infrastructure such as servers, virtual machines, networks, and storage. However, customers are still responsible for managing provisioning and installing applications. 
 FaaS is the closest to fully managed service. In FaaS, the provider is responsible for powering up and shutting down the server on which the applications run. In such service, the customers do not have to worry about managing or provisioning the server.
