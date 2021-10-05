@@ -57,7 +57,7 @@ The graphical interface allows to rewrite and reanalyse any text with a more use
 
 
 
-## __Serverless (Function-as-a-Service, FaaS) VS Infrastructure-as-a-Service (IaaS) :__
+## __Serverless VS Infrastructure-as-a-Service (IaaS)__
 
 IaaS is the closest service to on-premises. In IaaS, a cloud provider rents infrastructure such as servers, virtual machines, networks, and storage. However, customers are still responsible for managing provisioning and installing applications. 
 FaaS is the closest to fully managed service. In FaaS, the provider is responsible for powering up and shutting down the server on which the applications run. In such service, the customers do not have to worry about managing or provisioning the server.
