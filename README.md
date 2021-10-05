@@ -13,9 +13,9 @@ __Computation of the cost of the API for 10,000 instances with Docker Storage (e
 
 ### 1.  Files Cloning (2 Methods)
     
-    Method 1: Clone the following link (Using GIT): https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english.
+   Method 1: Clone the following link (Using GIT): https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english.
 
-    Method 2: Install the following files available in the "files and versions" section of the Model link: 
+   Method 2: Install the following files available in the "files and versions" section of the Model link: 
         *    "config.json", 
         *    "tokenizer_config.json", 
         *    "vocab.txt", 
